@@ -5,8 +5,6 @@
     "use": true,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -17,8 +15,6 @@
     "use": false,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -29,8 +25,6 @@
     "use": true,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -41,8 +35,6 @@
     "use": true,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -53,8 +45,6 @@
     "use": true,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -65,8 +55,6 @@
     "use": true,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
@@ -77,8 +65,6 @@
     "use": false,
     "compatiblePackages": {
       "com.amazon.amazonvideo.livingroom": [
-        "6.23.23+v15.5.0.70-armv7a",
-        "6.24.7+v16.0.0.332-allAbis",
         "6.24.13+v16.0.1.93-allAbis"
       ]
     }
