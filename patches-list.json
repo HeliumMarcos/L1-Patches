@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Bundle native ad-strip hook",
+    "description": "Empacota a biblioteca nativa libpvhook.so (com correção chapteringAdBreak 0x00dc6450 para Prime Video 6.24.13).",
+    "use": true,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Clone Prime Video",
+    "description": "Renomeia o pacote para <original>.mod para instalação lado a lado com o Prime Video oficial/sistema.",
+    "use": false,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Disable auto-updates",
+    "description": "Impede que a Google Play Store substitua automaticamente o APK modificado pelo oficial.",
+    "use": true,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Load native ad-strip hook",
+    "description": "Carrega libpvhook.so na inicialização para remover anúncios em processo sem travamentos.",
+    "use": true,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Prime Video extension",
+    "description": "Integra a extensão Java do Prime Video Android TV.",
+    "use": true,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Skip ads",
+    "description": "Supressão multicamadas de anúncios (SSAI, impressões e Volley).",
+    "use": true,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  },
+  {
+    "name": "Force highest quality",
+    "description": "Reporta todos os codecs/resoluções consultados como suportados para liberar a maior qualidade disponível (experimental).",
+    "use": false,
+    "compatiblePackages": {
+      "com.amazon.amazonvideo.livingroom": [
+        "6.23.23+v15.5.0.70-armv7a",
+        "6.24.7+v16.0.0.332-allAbis",
+        "6.24.13+v16.0.1.93-allAbis"
+      ]
+    }
+  }
+]

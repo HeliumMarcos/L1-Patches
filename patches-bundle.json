@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-11-24T14:20:00",
+  "description": "### L1 Patches v1.61.1 (Português BR)\n\n- **Prime Video Android TV (`6.24.13+v16.0.1.93-allAbis`):** Corrigido o endereço nativo do parser `chapteringAdBreak` (`0x00dc6450`) em `libpvhook.so` (`armeabi-v7a`) para evitar travamento no carregamento durante anúncios *mid-roll*.\n- **Force highest quality:** Adicionado para liberar todos os perfis de vídeo/codec consultados.\n- **Override certificate pinning:** Removido do bundle.\n- **Base:** Derivado de `ajstrick81/morphe-androidtv-patches` (v1.61.1) e `semicoloncolonel/tv-morphe-patches`.",
+  "download_url": "https://github.com/HeliumMarcos/L1-Patches/releases/download/v1.61.1/L1-Patches-v1.61.1.mpp",
+  "signature_download_url": "",
+  "version": "1.61.1"
+}
